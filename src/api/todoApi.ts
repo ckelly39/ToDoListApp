@@ -23,6 +23,14 @@ export const createTodo = async (todo: CreateTodoItem): Promise<TodoItem> => {
   return response.json();
 };
 
+export const toggleTodoComplete = async (id: number): Promise<TodoItem> => {
+  const response = await fetch(`${API_URL}/TodoItems/${id}/toggle`, {
+    method: 'PUT',
+  });
+  if (!response.ok) throw new Error('Failed to toggle todo');
+  return response.json();
+};
+
 export const updateTodo = async (id: number, todo: UpdateTodoItem): Promise<void> => {
   const response = await fetch(`${API_URL}/TodoItems/${id}`, {
     method: 'PUT',
