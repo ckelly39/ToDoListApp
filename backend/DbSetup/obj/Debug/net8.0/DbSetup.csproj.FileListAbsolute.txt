@@ -1,0 +1,14 @@
+/home/kelly/ToDoListApp/backend/DbSetup/bin/Debug/net8.0/DbSetup
+/home/kelly/ToDoListApp/backend/DbSetup/bin/Debug/net8.0/DbSetup.deps.json
+/home/kelly/ToDoListApp/backend/DbSetup/bin/Debug/net8.0/DbSetup.runtimeconfig.json
+/home/kelly/ToDoListApp/backend/DbSetup/bin/Debug/net8.0/DbSetup.dll
+/home/kelly/ToDoListApp/backend/DbSetup/bin/Debug/net8.0/DbSetup.pdb
+/home/kelly/ToDoListApp/backend/DbSetup/obj/Debug/net8.0/DbSetup.GeneratedMSBuildEditorConfig.editorconfig
+/home/kelly/ToDoListApp/backend/DbSetup/obj/Debug/net8.0/DbSetup.AssemblyInfoInputs.cache
+/home/kelly/ToDoListApp/backend/DbSetup/obj/Debug/net8.0/DbSetup.AssemblyInfo.cs
+/home/kelly/ToDoListApp/backend/DbSetup/obj/Debug/net8.0/DbSetup.csproj.CoreCompileInputs.cache
+/home/kelly/ToDoListApp/backend/DbSetup/obj/Debug/net8.0/DbSetup.dll
+/home/kelly/ToDoListApp/backend/DbSetup/obj/Debug/net8.0/refint/DbSetup.dll
+/home/kelly/ToDoListApp/backend/DbSetup/obj/Debug/net8.0/DbSetup.pdb
+/home/kelly/ToDoListApp/backend/DbSetup/obj/Debug/net8.0/DbSetup.genruntimeconfig.cache
+/home/kelly/ToDoListApp/backend/DbSetup/obj/Debug/net8.0/ref/DbSetup.dll
