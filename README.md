@@ -1,2 +1,2 @@
-# To_do_list
+# ToDoListApp
 This is a software that will assist in organizing daily tasks
