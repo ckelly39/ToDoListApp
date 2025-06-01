@@ -1,0 +1,11 @@
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/bin/Debug/net8.0/ToDoListApp.Shared.deps.json
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/bin/Debug/net8.0/ToDoListApp.Shared.dll
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/bin/Debug/net8.0/ToDoListApp.Shared.pdb
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/obj/Debug/net8.0/ToDoListApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/obj/Debug/net8.0/ToDoListApp.Shared.AssemblyInfoInputs.cache
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/obj/Debug/net8.0/ToDoListApp.Shared.AssemblyInfo.cs
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/obj/Debug/net8.0/ToDoListApp.Shared.csproj.CoreCompileInputs.cache
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/obj/Debug/net8.0/ToDoListApp.Shared.dll
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/obj/Debug/net8.0/refint/ToDoListApp.Shared.dll
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/obj/Debug/net8.0/ToDoListApp.Shared.pdb
+/home/kelly/ToDoListApp/backend/ToDoListApp.Shared/obj/Debug/net8.0/ref/ToDoListApp.Shared.dll

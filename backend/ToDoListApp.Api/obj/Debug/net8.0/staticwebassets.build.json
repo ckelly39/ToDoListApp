@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C0LKu/isUsEdyKZo6Q0nCgqsoPk1LWA0j+3PBGjLHqY=",
+  "Source": "ToDoListApp.Api",
+  "BasePath": "_content/ToDoListApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

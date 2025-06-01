@@ -1,0 +1,17 @@
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/bin/Debug/net8.0/ToDoListApp.Infrastructure.deps.json
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/bin/Debug/net8.0/ToDoListApp.Infrastructure.dll
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/bin/Debug/net8.0/ToDoListApp.Infrastructure.pdb
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/bin/Debug/net8.0/ToDoListApp.Domain.dll
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/bin/Debug/net8.0/ToDoListApp.Domain.pdb
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/ToDoListApp.Infrastructure.csproj.AssemblyReference.cache
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/ToDoListApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/ToDoListApp.Infrastructure.AssemblyInfoInputs.cache
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/ToDoListApp.Infrastructure.AssemblyInfo.cs
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/ToDoListApp.Infrastructure.csproj.CoreCompileInputs.cache
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/ToDoList.C91474D3.Up2Date
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/ToDoListApp.Infrastructure.dll
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/refint/ToDoListApp.Infrastructure.dll
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/ToDoListApp.Infrastructure.pdb
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/ref/ToDoListApp.Infrastructure.dll
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/bin/Debug/net8.0/ToDoListApp.Infrastructure.runtimeconfig.json
+/home/kelly/ToDoListApp/backend/ToDoListApp.Infrastructure/obj/Debug/net8.0/ToDoListApp.Infrastructure.genruntimeconfig.cache

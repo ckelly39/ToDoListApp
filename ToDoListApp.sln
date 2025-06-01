@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{C46A7922-087B-4336-AF16-625F564F5C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListApp.Api", "backend\ToDoListApp.Api\ToDoListApp.Api.csproj", "{86FD518C-7574-46CD-9157-FDCA68EB10A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListApp.Domain", "backend\ToDoListApp.Domain\ToDoListApp.Domain.csproj", "{720CEDBF-B062-41A2-9C41-6330098D8B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListApp.Application", "backend\ToDoListApp.Application\ToDoListApp.Application.csproj", "{05A0503E-C161-47CC-9BED-4F2EAAFDBAF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListApp.Infrastructure", "backend\ToDoListApp.Infrastructure\ToDoListApp.Infrastructure.csproj", "{5458E05B-5C2B-4209-8E60-A6FDAACCE531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListApp.Shared", "backend\ToDoListApp.Shared\ToDoListApp.Shared.csproj", "{EB80FCF0-250E-4967-A63D-C463F49F0CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListApp.Tests", "backend\ToDoListApp.Tests\ToDoListApp.Tests.csproj", "{77476C9B-DE46-45F7-8BAC-460CF622E9D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86FD518C-7574-46CD-9157-FDCA68EB10A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FD518C-7574-46CD-9157-FDCA68EB10A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FD518C-7574-46CD-9157-FDCA68EB10A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FD518C-7574-46CD-9157-FDCA68EB10A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720CEDBF-B062-41A2-9C41-6330098D8B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720CEDBF-B062-41A2-9C41-6330098D8B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720CEDBF-B062-41A2-9C41-6330098D8B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720CEDBF-B062-41A2-9C41-6330098D8B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A0503E-C161-47CC-9BED-4F2EAAFDBAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A0503E-C161-47CC-9BED-4F2EAAFDBAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A0503E-C161-47CC-9BED-4F2EAAFDBAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A0503E-C161-47CC-9BED-4F2EAAFDBAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5458E05B-5C2B-4209-8E60-A6FDAACCE531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5458E05B-5C2B-4209-8E60-A6FDAACCE531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5458E05B-5C2B-4209-8E60-A6FDAACCE531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5458E05B-5C2B-4209-8E60-A6FDAACCE531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB80FCF0-250E-4967-A63D-C463F49F0CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB80FCF0-250E-4967-A63D-C463F49F0CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB80FCF0-250E-4967-A63D-C463F49F0CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB80FCF0-250E-4967-A63D-C463F49F0CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77476C9B-DE46-45F7-8BAC-460CF622E9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77476C9B-DE46-45F7-8BAC-460CF622E9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77476C9B-DE46-45F7-8BAC-460CF622E9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77476C9B-DE46-45F7-8BAC-460CF622E9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86FD518C-7574-46CD-9157-FDCA68EB10A1} = {C46A7922-087B-4336-AF16-625F564F5C13}
+		{720CEDBF-B062-41A2-9C41-6330098D8B65} = {C46A7922-087B-4336-AF16-625F564F5C13}
+		{05A0503E-C161-47CC-9BED-4F2EAAFDBAF5} = {C46A7922-087B-4336-AF16-625F564F5C13}
+		{5458E05B-5C2B-4209-8E60-A6FDAACCE531} = {C46A7922-087B-4336-AF16-625F564F5C13}
+		{EB80FCF0-250E-4967-A63D-C463F49F0CF6} = {C46A7922-087B-4336-AF16-625F564F5C13}
+		{77476C9B-DE46-45F7-8BAC-460CF622E9D4} = {C46A7922-087B-4336-AF16-625F564F5C13}
+	EndGlobalSection
+EndGlobal
